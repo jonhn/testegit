@@ -1,1 +1,1 @@
-este é o outro arquivo de teste do treinamento, só que agora está com mais texto que antes.
+este é o outro arquivo de teste do treinamento, só que agora está com mais texto que antes. Editado mais uma vez.
