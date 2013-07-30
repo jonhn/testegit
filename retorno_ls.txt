@@ -1,0 +1,31 @@
+total 132K
+ 55879 drwxr-xr-x 19 jonh jonh 4.0K Jul 29 13:49 .
+  8194 drwxr-xr-x  3 root root 4.0K Jul 29 11:55 ..
+ 55895 -rw-r--r--  1 jonh jonh  220 Jul 29 11:55 .bash_logout
+ 62404 -rw-r--r--  1 jonh jonh 3.5K Jul 29 11:55 .bashrc
+131189 drwx------ 14 jonh jonh 4.0K Jul 29 13:02 .cache
+  5204 drwx------  9 jonh jonh 4.0K Jul 29 13:01 .config
+  5213 drwx------  3 jonh jonh 4.0K Jul 29 13:00 .dbus
+  5196 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Desktop
+  5151 -rw-r--r--  1 jonh jonh   26 Jul 29 13:00 .dmrc
+  5200 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Documents
+  5197 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Downloads
+ 62403 -rw-r--r--  1 jonh jonh 8.3K Jul 29 11:55 examples.desktop
+  5230 drwx------  3 jonh jonh 4.0K Jul 29 13:00 .gconf
+  5222 drwx------  4 jonh jonh 4.0K Jul 29 13:00 .gnome2
+  5248 -rw-rw-r--  1 jonh jonh  132 Jul 29 13:00 .gtk-bookmarks
+     1 dr-x------  2 jonh jonh    0 Jul 29 13:00 .gvfs
+  5219 -rw-------  1 jonh jonh  354 Jul 29 13:00 .ICEauthority
+  5232 drwxr-xr-x  3 jonh jonh 4.0K Jul 29 13:00 .local
+  5286 drwx------  3 jonh jonh 4.0K Jul 29 13:00 .mission-control
+  5201 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Music
+  5202 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Pictures
+ 55897 -rw-r--r--  1 jonh jonh  675 Jul 29 11:55 .profile
+  5199 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Public
+  5150 drwx------  2 jonh jonh 4.0K Jul 29 13:00 .pulse
+  5235 -rw-------  1 jonh jonh  256 Jul 29 13:00 .pulse-cookie
+  5364 -rw-rw-r--  1 jonh jonh    0 Jul 29 13:49 retorno_ls.txt
+  5198 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Templates
+  5203 drwxr-xr-x  2 jonh jonh 4.0K Jul 29 13:00 Videos
+  5194 -rw-------  1 jonh jonh   60 Jul 29 13:00 .Xauthority
+  5195 -rw-------  1 jonh jonh  13K Jul 29 13:01 .xsession-errors
