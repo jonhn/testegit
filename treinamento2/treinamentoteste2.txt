@@ -3,4 +3,6 @@ este é o outro arquivo de teste do treinamento
 este é o outro arquivo de teste do treinamento, só que agora está com mais texto que antes. Editado mais uma vez.
 
 
+
 Nova modificação a ser aplicada no novo espaço de trabalho
+nova modificação
